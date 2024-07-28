@@ -1,0 +1,52 @@
+
+        /* Main Section*/
+        .Main-Division{
+           margin: 40px auto;
+           width: 480px;
+           height: 500px;
+           border-radius: 5px;
+           border: 2px solid black;
+          
+        }
+        /* Image Section */
+    #item-photo,img{
+        width: 450px;
+        height: 350px;
+        border-radius: 5px;
+       margin: 5px auto;
+    
+      
+     
+    }
+    #best-seller{
+            color: rgb(2, 81, 81);
+            font-weight: bolder;
+            background-color: rgb(216, 239, 242);
+            padding: 5px 5px 5px 5px;
+            border-radius: 8px;
+            border: 1px solid rgb(42, 137, 4);
+           
+            position: absolute;
+            
+            margin-left: 130px;
+            margin-top: 30px;
+           top: 40px;
+           left: 430px;
+        }
+        #must-try{
+            color: red;
+            font-weight: bolder;
+            background-color: bisque;
+            padding: 5px 5px 5px 5px;
+            border-radius: 8px;
+            border: 1px solid rgb(137, 4, 17);
+           
+            position: absolute;
+            top: 350px;
+            left: 910px;
+        }
+    #item-name,h2{
+        text-align: center;
+        color: black;
+        
+    }
